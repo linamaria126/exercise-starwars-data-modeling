@@ -16,3 +16,4 @@ Lina María Cardona Giraldo <br>
 Desarrolladora web - Full Stack
 
 
+Dentro del proceso de formación con la academia 4Geeks Academy.
